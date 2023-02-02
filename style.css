@@ -11,9 +11,9 @@ iframe {
 	right: 16px;
 }
 form {
-	position: relative;
+	position: fixed;
 	top: 50%;
 	left: 50%;
-	width: 100%;
-	align: center;
+	right: 50%;
+	bottom: 50%:
 }

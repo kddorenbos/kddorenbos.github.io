@@ -6,6 +6,9 @@ body {
 iframe {
 	border-radius .5rem;
 	background-color: #0e1a40 !important;
+	position: absolute;
+	top: 8px;
+	right: 16px;
 }
 form {
 	position: absolute;

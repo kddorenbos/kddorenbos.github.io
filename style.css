@@ -23,7 +23,7 @@ form {
 	border-radius 7px;
 	display: flex;
 	flex-direction: row;
-	text-align: center;
+	align-items:center;
 }
 
 input {

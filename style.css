@@ -7,3 +7,8 @@ iframe {
 	border-radius .5rem;
 	background-color: #0e1a40 !important;
 }
+form {
+	position: absolute;
+	top: 50%;
+	align: center;
+}

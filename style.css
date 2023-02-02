@@ -19,13 +19,13 @@ form {
 	border-radius 7px;
 	display: flex;
 	flex-direction: row;
-	align-items:center;
+	text-align:center;
 }
 
 input {
 	all: unset;
 	font: 20px "Courier New";
-	color: #fff;
+	color: #0bff01;
 	height: 100%;
 	width: 100%;
 	padding: 6px 10px;

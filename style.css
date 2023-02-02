@@ -2,3 +2,8 @@ body {
 	background-color: #0e1a40;
 	color: #0bff01;
 }
+
+iframe {
+	border-radius .5rem;
+	background-color: #0e1a40 !important;
+}

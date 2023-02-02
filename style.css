@@ -6,7 +6,7 @@ body {
 }
 
 iframe {
-	border-radius .5rem;
+	border-radius .5px;
 	background-color: #0e1a40 !important;
 	position: absolute;
 	top: 8px;
@@ -14,7 +14,9 @@ iframe {
 }
 form {
 	top: 50%;
-	width: 100%;
-	text-align:center;
-	background-color: #222f5b;
+	width: 300px;
+	height: 44px;
+	align-items: center;
+	display: flex;
+	flex-direction: row;
 }

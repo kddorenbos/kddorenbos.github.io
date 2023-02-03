@@ -29,3 +29,11 @@ input {
 	height: 100%;
 	width: 100%;
 	padding: 6px 10px;
+}
+
+button {
+	all:unset;
+	background-color: #222f5b;
+	width: 44px;
+	height: 44px;
+
